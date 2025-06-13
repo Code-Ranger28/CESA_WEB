@@ -95,7 +95,7 @@ export default function Bento() {
 {/*           <CardTitle className='text-6xl font-extrabold text-cesa-blue md:text-9xl'>
             CESA
           </CardTitle> */}
-          <div className='relative aspect-[1/2] h-auto w-full md:aspect-[2/1]'>
+          <div className='relative aspect-[1/2] h-auto w-full md:aspect-[3/1]'>
            <Image
                 src='/images/cesa-logo.jpg'
                 fill
