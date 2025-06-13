@@ -97,7 +97,8 @@ export default function Bento() {
           </CardTitle> */}
           <Image
                 src='/images/cesa-logo.jpg'
-                fill
+                height={200}
+                width={200}
                 alt='Members'
                 className='object-contain object-center'
             />
