@@ -95,13 +95,14 @@ export default function Bento() {
 {/*           <CardTitle className='text-6xl font-extrabold text-cesa-blue md:text-9xl'>
             CESA
           </CardTitle> */}
-          <Image
+          <div className='relative aspect-[6/2] h-auto w-full md:aspect-[6/1]'>
+           <Image
                 src='/images/cesa-logo.jpg'
-                height={200}
-                width={200}
-                alt='Members'
+                Fill
+                alt='cesa_logo'
                 className='object-contain object-center'
             />
+          </div>
           <CardDescription className='text-center'>
             Computer Engineering Students Association
           </CardDescription>
