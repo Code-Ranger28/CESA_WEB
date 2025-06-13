@@ -98,7 +98,7 @@ export default function Bento() {
           <div className='relative aspect-[6/2] h-auto w-full md:aspect-[6/1]'>
            <Image
                 src='/images/cesa-logo.jpg'
-                Fill
+                fill
                 alt='cesa_logo'
                 className='object-contain object-center'
             />
