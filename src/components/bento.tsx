@@ -90,7 +90,7 @@ export default function Bento() {
         </div>
       </div>
 
-      <Card className='row-span-2'>
+      <Card className='row-span-2 bg-[#000080]'>
         <CardHeader className='flex h-full flex-col items-center justify-center'>
 {/*           <CardTitle className='text-6xl font-extrabold text-cesa-blue md:text-9xl'>
             CESA
