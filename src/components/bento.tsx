@@ -92,9 +92,17 @@ export default function Bento() {
 
       <Card className='row-span-2'>
         <CardHeader className='flex h-full flex-col items-center justify-center'>
-          <CardTitle className='text-6xl font-extrabold text-cesa-blue md:text-9xl'>
+{/*           <CardTitle className='text-6xl font-extrabold text-cesa-blue md:text-9xl'>
             CESA
-          </CardTitle>
+          </CardTitle> */}
+          <div className='relative aspect-[1] h-auto w-full md:aspect-[2/1]'>
+           <Image
+                src='/images/cesa-logo2.jpg'
+                fill
+                alt='cesa_logo'
+                className='object-contain object-center'
+            />
+          </div>
           <CardDescription className='text-center'>
             Computer Engineering Students Association
           </CardDescription>
