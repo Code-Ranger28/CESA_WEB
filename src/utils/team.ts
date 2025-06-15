@@ -82,22 +82,22 @@ export const TechnicalTeam: MemberType[] = [
 
 /* 7 */
 export const CreativeTeam: MemberType[] = [
-  // {
-  //   img: '/team/kasturipatil.jpg',
-  //   name: 'Kasturi Patil',
-  //   role: 'Creative Lead',
-  //   linkedin: 'www.linkedin.com/in/kasturipatil2009',
-  //   instagram: 'https://www.instagram.com/kasturi_3020_',
-  //   twitter: '',
-  // },
-  // {
-  //   img: '/team/kinjaljaiswal.jpg',
-  //   name: 'Kinjal Jaiswal',
-  //   role: 'Creative Joint-Lead',
-  //   linkedin: '',
-  //   instagram: '',
-  //   twitter: '',
-  // },
+  {
+    img: '',
+    name: 'Dhanashree Murthy',
+    role: 'Creative Lead',
+    linkedin: '',
+    instagram: '',
+    twitter: '',
+  },
+  {
+    img: '/team/aditivajire.jpg',
+    name: 'Aditi Vajire',
+    role: 'Creative Joint-Lead',
+    linkedin: 'https://www.linkedin.com/in/aditivajire/',
+    instagram: 'https://www.instagram.com/aditivajire/',
+    twitter: '',
+  },
   // {
   //   img: '/team/spruhafantasia.jpg',
   //   name: 'Spruha Fantasia',
@@ -234,30 +234,30 @@ export const PhotographyTeam: MemberType[] = [
 
 /* 3 */
 export const SportsTeam: MemberType[] = [
-  // {
-  //   img: '/team/pradeeprathod.jpg',
-  //   name: 'Pradeep Rathod',
-  //   role: 'Sports Lead (Male)',
-  //   linkedin: 'https://www.linkedin.com/in/pradeep-rathod22',
-  //   instagram: 'https://www.instagram.com/_pradeep.22_/',
-  //   twitter: '',
-  // },
-  // {
-  //   img: '/team/mansishinde.jpg',
-  //   name: 'Mansi Shinde',
-  //   role: 'Sports Lead (Female)',
-  //   linkedin: 'https://www.linkedin.com/in/mansi-shinde-992720251',
-  //   instagram: '',
-  //   twitter: '',
-  // },
-  // {
-  //   img: '/team/mrunalsawant.jpg',
-  //   name: 'Mrunal Sawant',
-  //   role: 'Sports Joint-Lead',
-  //   linkedin: 'https://www.linkedin.com/in/mrunal-sawant-3874b82a0',
-  //   instagram: 'https://www.instagram.com/mrunal2890/',
-  //   twitter: '',
-  // },
+  {
+    img: '',
+    name: 'Om Rajurkar',
+    role: 'Sports Lead ',
+    linkedin: '',
+    instagram: '',
+    twitter: '',
+  },
+  {
+    img: '',
+    name: 'Bhakti Gawand',
+    role: 'Sports Lead (Female)',
+    linkedin: '',
+    instagram: '',
+    twitter: '',
+  },
+  {
+    img: '',
+    name: 'Devyani Kadam',
+    role: 'Sports Joint-Lead',
+    linkedin: '',
+    instagram: '',
+    twitter: '',
+  },
 ];
 
 /* 6 */
