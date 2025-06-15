@@ -10,6 +10,7 @@ import {
   PublicRelationTeam,
   SportsTeam,
   TechnicalTeam,
+  SocialMediaTeam,
 } from '@/utils/team';
 
 const getRandomDelay = () =>
@@ -48,6 +49,11 @@ const TEAMS = [
     snapDelay: getRandomDelay(),
   },
   { teamName: 'Sports Team', team: SportsTeam, snapDelay: getRandomDelay() },
+  {
+    teamName: 'Social Media Team',
+    team: SocialMediaTeam,
+    snapDelay: getRandomDelay(),
+  },
 ];
 
 export default function Page() {
