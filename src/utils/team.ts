@@ -195,7 +195,7 @@ export const MarketingTeam: MemberType[] = [
     twitter: '',
   },
   {
-    img: /team/purubhole.jpg'',
+    img: '/team/purubhole.jpg',
     name: 'Puru Bhole',
     role: 'Marketing & Sponsorship Joint-Lead',
     linkedin: '',
